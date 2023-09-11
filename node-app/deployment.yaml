@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: node-app
-          image: AssNiang/examplenode-dev:2
+          image: sas792/examplenode-dev:3
           ports:
             - containerPort: 3000
